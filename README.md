@@ -23,7 +23,7 @@ python get_seqs.py -i your_sequences.fasta -o candidate.csv
 To optimize extremocins with **SEGMA**, run the following command:
 
 ```bash
-python get_seqs.py -i candidate.csv -o candidate_optimize.csv
+python optimize.py -i candidate.csv -o candidate_optimize.csv
 ```
 
 > **Note:** This project is continuously maintained and updated!
