@@ -7,11 +7,11 @@ We applied [APEX 1.1](https://gitlab.com/machine-biology-group-public/apex-patho
 Install required packages with:
 
 ```bash
-pip install -r requirements.txt
+chmod +x download.sh
 ```
 
 ```bash
-conda install bioconda::foldseek
+./download.sh
 ```
 
 Before running **SEGMA**, convert amino acid sequences into **aa-3Di** sequences using the following command:
