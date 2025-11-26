@@ -1,5 +1,5 @@
 # SEGMA
-![SEGMA Logo](SEGMA/images/github.png)
+![SEGMA](https://github.com/HUST-NingKang-Lab/SEGMA/blob/main/images/github.png)
 We introduced **structure-aware extremophile genome mining for antimicrobial peptides (SEGMA)**, a deep-learning based framework used to systematically mine and optimize antimicrobial peptides (AMPs) from extreme environments on a global scale. By analyzing 60,461 extremophile metagenome-assembled genomes (MAGs), we discovered 3,298 novel AMPs, herein termed "extremocins".
 
 We applied [APEX 1.1](https://gitlab.com/machine-biology-group-public/apex-pathogen) to predict MIC of extremoxins, and [Foldseek](https://github.com/steineggerlab/foldseek) to geneate peptides' 3Di sequences .
