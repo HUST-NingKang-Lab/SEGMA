@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from amp_sigma_pipeline import PipelineConfig, predict, seed_everything, train
+from spear_pipeline import PipelineConfig, predict, seed_everything, train
 
 
 def normalize_structure_table(

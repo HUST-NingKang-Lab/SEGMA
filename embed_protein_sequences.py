@@ -4,7 +4,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from amp_sigma_pipeline import PipelineConfig, embed_sequences, read_sequences, seed_everything
+from spear_pipeline import PipelineConfig, embed_sequences, read_sequences, seed_everything
 
 
 def read_input_sequences(args: argparse.Namespace) -> pd.DataFrame:
